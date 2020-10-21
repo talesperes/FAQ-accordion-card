@@ -23,7 +23,7 @@ main {
 }
 
 .pattern-mobile-image {
-    top: 24vh;
+    top: 25vh;
     left: 17vw;
     position: absolute;
     visibility: visible;
@@ -34,6 +34,10 @@ main {
     top: 42vh;
     position: absolute;
     visibility: hidden;
+}
+
+.question-section h1 {
+    text-align: center;
 }
 
 @media screen and (min-width: 1080px) {
@@ -72,6 +76,10 @@ main {
         visibility: hidden;
     }
 
+    .question-section h1 {
+        text-align: initial;
+    }
+
 }
 
 .accordion-item {
@@ -107,3 +115,6 @@ hr {
     border: 1px solid hsl(240, 5%, 91%);
     border-style: none none solid none;
 }
+
+.attribution { font-size: 11px; text-align: center; }
+.attribution a { color: hsl(228, 45%, 44%); }
