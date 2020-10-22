@@ -2,6 +2,10 @@
 
 ![Design preview for the FAQ Accordion Card coding challenge](./design/desktop-preview.jpg)
 
+## Acessar projeto
+
+https://faq-accordion-card-rouge.vercel.app/
+
 ## Welcome! 👋
 
 Thanks for checking out this front-end coding challenge.
